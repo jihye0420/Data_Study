@@ -3,4 +3,6 @@ pandas
 finance-datareader
 matplotlib
 plotly
+beautifulsoup4
+openpyxl
 html5lib
