@@ -2,11 +2,7 @@ import streamlit as st
 import pandas as pd
 import FinanceDataReader as fdr
 import datetime
-import matplotlib.pyplot as plt
-import matplotlib
 from io import BytesIO
-import plotly.graph_objects as go
-import plotly.express as px  # 빠르게 그리는 방법
 
 with st.sidebar:
     st.header('회사와 기간을 입력하시오.')
