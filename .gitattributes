@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+ITStudy/youtube/KR_youtube_trending_data_korean.csv filter=lfs diff=lfs merge=lfs -text

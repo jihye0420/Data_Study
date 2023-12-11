@@ -278,4 +278,14 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
 
+# jihye
+ITStudy/youtube/KR_youtube_trending_data_korean.csv
+ITStudy/youtube/CAvideos.csv
+ITStudy/youtube/JPvideos.csv
+ITStudy/youtube/KRvideos.csv
+ITStudy/youtube/MXvideos.csv
+ITStudy/youtube/USvideos.csv
+ITStudy/youtube.zip
+
+
 # End of https://www.toptal.com/developers/gitignore/api/pycharm
